@@ -12,4 +12,4 @@ This is a simple conversational bot built using OpenAI's API, Python, and Stream
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatbot-project.git
+   git clone https://github.com/sharan11/gpt-powered-chatbot.git
